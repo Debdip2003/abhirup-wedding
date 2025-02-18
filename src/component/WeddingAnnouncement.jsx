@@ -19,7 +19,7 @@ const WeddingAnnouncement = () => {
       {/* Centered Content */}
       <div className="relative z-10 text-white text-center">
         <h1 className="text-4xl sm:text-6xl md:text-8xl font-cursive font-bold drop-shadow-2xl tracking-wide transform translate-y-[-500%] md:translate-y-[-35%]">
-          Abhirup & Avishri
+          Abhirup & Subhashri
         </h1>
         <p className="text-xl sm:text-2xl md:text-4xl mt-4 tracking-wide drop-shadow-lg font-light font-sans  transform translate-y-[-600%] md:translate-y-[-35%]">
           20 FEBRUARY, 2025 - BARDHAMAN
